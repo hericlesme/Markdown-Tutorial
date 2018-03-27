@@ -5,6 +5,7 @@ Hello, welcome to my tutorial for markdown.
 In this tutorial you will learn the most basics things about Markdown.  
 Spanish version available [here](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md).
 Portuguese version available [here](https://github.com/LewisVo/Markdown-Tutorial/blob/master/README_pt-BR.md).
+French version available [here](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_fr.md).
 
 *******
 Tables of contents  
@@ -79,12 +80,16 @@ All Syntax can be found [here](https://daringfireball.net/projects/markdown/synt
 
 <br></br>
  <br></br>
- <p id="section1">Note: **Footnote** actually doesnt render properly in table (and github preview), but it kinda looks like this     ![](http://i.imgur.com/pmeBr28.png)
+ <p id="section1">Note: **Footnote** actually doesnt render properly in table (and github preview), but it kinda looks like this </p>  
+ 
+ ![](http://i.imgur.com/pmeBr28.png)  
    <br></br>
    The same goes for **block code/syntax hightlighting**. It kinda looks like this picture :
-   ![](http://i.imgur.com/z8KrxAz.png).</p>
+  
+![](http://i.imgur.com/z8KrxAz.png).    
 
-These characteristics are dependent upon each markdown flavour.
+These characteristics are dependent upon each markdown flavour.  
+
 
 ## Useful notes  :
  * Markdown allows you to use backslash escapes to generate literal characters which
@@ -107,5 +112,5 @@ would otherwise have special meaning in Markdown’s formatting syntax. One comm
  *  Markdown table support is designed to handle most tables for most people; it doesn’t cover all tables for all people. If you need complex tables you will need to create them by hand or with a tool specifically designed for your output format.  
 ```I had such a pain making the above table possible```
  
-###### Author: *Vo Tran Thanh Luong*. 
+###### Author: *Vo Tran Thanh Luong*. Also, I would like to thank all the contributors/translators for your work making this greater.
    
